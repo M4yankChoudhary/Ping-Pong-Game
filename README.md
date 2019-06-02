@@ -2,10 +2,10 @@
 An open Source PC game. 
 
 # Controls
-Player 1 - Player 2
-Left Bat - Right Bat
-       W - Up
-       S - Down
+Player 1 (Left Bat) - W,S  
+   Player 2 (Right Bat) - Up,Down
+
+      
 
 # Downloads
 Supports Windows 
