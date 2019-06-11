@@ -14,4 +14,5 @@ https://drive.google.com/file/d/1zBDLdCWOHAU1eY6ZRpUldoFYG8kQ9p2T/view?usp=shari
 
 #YouTube
 https://www.youtube.com/watch?v=jnTP4PfGPnc&feature=youtu.be
-
+                  
+![game play](https://github.com/M4yankChoudhary/try/blob/master/IMG_20190611_102905.jpg)
